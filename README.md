@@ -14,10 +14,10 @@ This is a real-time chat application built using the **MERN** stack (MongoDB, Ex
 * **Theming:** Users can personalize their experience by choosing different themes.
 * **Middleware:** Robust backend with custom middleware for authentication and and error handling.
 * **Responsive Design:** Built with Tailwind CSS for a mobile-first and responsive user interface.
-
+  
 ---
 
-## Technologies Used
+## Tech Stack
 
 **Frontend:**
 * React
@@ -40,7 +40,7 @@ This is a real-time chat application built using the **MERN** stack (MongoDB, Ex
 
 Make sure you have the following installed:
 
-* Node.js (LTS version recommended)
+* Node.js 
 * MongoDB
 * npm or Yarn
 
